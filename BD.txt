@@ -1,0 +1,12 @@
+¿Qué es una base de datos?
+Una base de datos es una herramienta para recopilar y organizar información
+
+¿Qué paradigmas de base de datos conoces?
+Document Oriented
+Relational
+
+¿En qué consiste cada paradigma y cuáles son sus ventajas?
+El paradigma document oriented esta constituida por un conjunto de programas que almacenan, recuperan y gestionan datos de documentos o datos de algun modo estructurados, la ventaja puede ser que no se require ajustarse a un esquema estandar ni tener todas las mismas secciones, atributos, claves etc
+
+El paradigma relational consiste en el uso de relaciones para administrar datos dinamicamente y sus ventajas son que provee herramientas que garantizan evitar la duplicidad de registros, favorece la normalizacion por ser mas comprensible y aplicable
+
